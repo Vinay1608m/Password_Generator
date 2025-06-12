@@ -9,4 +9,4 @@ A desktop GUI tool built with Python and Tkinter to generate strong and secure p
 
 ## How to Run
 ```bash
-python password_generator.py
+python app.py
